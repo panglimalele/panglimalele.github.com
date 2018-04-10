@@ -20,5 +20,14 @@
       <description>Hello World in here i&amp;rsquo;m using Hugo :)</description>
     </item>
     
+    <item>
+      <title>POST 2</title>
+      <link>https://goldiestudio.me/post-2/</link>
+      <pubDate>Thu, 05 Apr 2018 22:04:28 +0700</pubDate>
+      
+      <guid>https://goldiestudio.me/post-2/</guid>
+      <description>Hello World in here i&amp;rsquo;m using Hugo :) 2</description>
+    </item>
+    
   </channel>
 </rss>
